@@ -5,7 +5,7 @@
 I have a background in linguistics and computational linguistics. This can be found in a lot of my projects that deal directly, or indirectly, with linguistics and languages. Besides lingusitics I also love space and space related things :milky_way:. This can also be found in some of my projects! 
 
 ## Languages that I use
-- Javascript (HTML, CSS, React, Redux, NextJS, Vue, Node) for web applications. Most of my projects revolved around web-development
+- Javascript/typescript (HTML, CSS, React, Redux, NextJS, Vue, Node) for web applications. Most of my projects revolved around web-development
 - C#, I create some Windows desktop app but also work on some Unity projects in my free time
 - Python, mostly for automated my workflow or create 
 - MongoDB and PostgresSQL :elephant: 
