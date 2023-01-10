@@ -6,7 +6,7 @@ I have a background in linguistics and computational linguistics. This can be fo
 
 ## Languages that I use
 - Javascript/typescript (HTML, CSS, React, Redux, NextJS, Vue, Node) for web applications. Most of my projects revolved around web-development
-- C#, I create some Windows desktop app but also work on some Unity projects in my free time
+- C#, I create some Windows desktop apps but also work on some Unity projects in my free time
 - Python, mostly for automated my workflow or create 
 - MongoDB and PostgresSQL :elephant: 
 - Java on rare occasions :coffee:
