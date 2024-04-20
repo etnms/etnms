@@ -15,4 +15,4 @@ I have a background in linguistics and computational linguistics. This can be fo
 A dictionnary project. I created 2 different apps that allowed me to create a dictionary, and now is the time to work on an actual dictionary. This project focuses on regional languages in France, which are sometimes documented but not always with a web application.
 
 ## I'm currently learning
-I'm still learning NextJS at the moment. I'm also trying to learn more on Machine Learning.
+I'm trying to learn more on Machine Learning. I plan on learning more about transformers in the near future. 
